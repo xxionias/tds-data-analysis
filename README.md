@@ -6,4 +6,5 @@
 `cleaned_data`: output of `etl.ipynb`  
 `etl.py`: read and process `cleaned_data` to Postgres DB  
 `sql_queries.py`: contains sql queries for dropping and creating tables. Also contains insertion query template  
-`create_tables.py` -> contains code for setting up database
+`create_tables.py`: contains code for setting up database
+`app.py`: web app
